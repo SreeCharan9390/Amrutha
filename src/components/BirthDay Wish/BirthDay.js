@@ -39,7 +39,7 @@ const LoveLetter = () => {
       <img src={img1} alt=' ' align="right" height= {"250px"} /> 
         <div className='wish'>
         My dear Amrutha🖤,<br />
-        On this special day, I wanted to take a moment to celebrate you—the incredible person you are and the wonderful friend you've always been.<br/><br/>I have Enjoyrd Each and Every moment I spent with you.You have always been my best company<br/><b>Wish You A many more happy returns of the day</b><br/>
+        On this special day, I wanted to take a moment to celebrate you—the incredible person you are and the wonderful friend you've always been.<br/><br/>I have Enjoyrd Each and Every moment I spent with you.You have always been my best company<br/><b>Wishing You A many more happy returns of the day</b><br/>
         always yours,<br />
         @Sri Charan
         </div>
