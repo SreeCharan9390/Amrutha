@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Amrutha/static/css/main.7c8ae8b2.css",
-    "main.js": "/Amrutha/static/js/main.f1ed2b4d.js",
+    "main.js": "/Amrutha/static/js/main.47170e87.js",
     "static/js/453.90cb560f.chunk.js": "/Amrutha/static/js/453.90cb560f.chunk.js",
     "static/media/charlie.mp3": "/Amrutha/static/media/charlie.2d250bc7199db655519e.mp3",
     "static/media/OIP.jpg": "/Amrutha/static/media/OIP.e28114c531fea5c4fdfa.jpg",
     "index.html": "/Amrutha/index.html",
     "main.7c8ae8b2.css.map": "/Amrutha/static/css/main.7c8ae8b2.css.map",
-    "main.f1ed2b4d.js.map": "/Amrutha/static/js/main.f1ed2b4d.js.map",
+    "main.47170e87.js.map": "/Amrutha/static/js/main.47170e87.js.map",
     "453.90cb560f.chunk.js.map": "/Amrutha/static/js/453.90cb560f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7c8ae8b2.css",
-    "static/js/main.f1ed2b4d.js"
+    "static/js/main.47170e87.js"
   ]
 }
